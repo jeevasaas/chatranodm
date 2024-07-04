@@ -21,5 +21,6 @@ class chatapplication extends ServiceProvider
     {
         $this->loadRoutesFrom(__DIR__. '/routes/web.php');
         $this->loadViewsFrom(__DIR__.'/views', 'ChatApp');
+        $this->loadMigrationsFrom(__DIR__.'/database/migrations/');
     }
 }

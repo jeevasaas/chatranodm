@@ -14,5 +14,7 @@
             "email": "jeevanantham@saasforest.com"
         }
     ],
-    "require": {}
+    "require": {
+        "livewire/livewire": "^3.5"
+    }
 }
