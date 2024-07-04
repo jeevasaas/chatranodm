@@ -3,7 +3,7 @@
         'name' => 'playbackchat/balajeeva',
         'pretty_version' => 'dev-main',
         'version' => 'dev-main',
-        'reference' => '314d0418a20642017704cdb875b8c1d0fadc2392',
+        'reference' => '12919c6d529566feabff236a5cc31bda43c04d77',
         'type' => 'library',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
@@ -256,7 +256,7 @@
         'playbackchat/balajeeva' => array(
             'pretty_version' => 'dev-main',
             'version' => 'dev-main',
-            'reference' => '314d0418a20642017704cdb875b8c1d0fadc2392',
+            'reference' => '12919c6d529566feabff236a5cc31bda43c04d77',
             'type' => 'library',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
