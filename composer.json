@@ -14,5 +14,6 @@
             "email": "jeevanantham@saasforest.com"
         }
     ],
+    "minimum-stability": "dev",
     "require": {}
 }
